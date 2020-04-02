@@ -1,6 +1,6 @@
-# Syllabus
+# Full-Stack Application Development for Beginners
 
-_Full-Stack Application Development for Beginners_
+<p class="lead">_Syllabus_</p>
 
 > Knowing how to hack also means that when you have ideas, you'll be able to implement them... It's a big advantage, when you're considering an idea like putting a college facebook online, if instead of merely thinking "That's an interesting idea," you can think instead "That's an interesting idea. I'll try building an initial version tonight."
 >
