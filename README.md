@@ -33,8 +33,7 @@ This course is very _project-driven_. We will, as much as possible, learn each t
 
 This course is also very _question-driven_. In many cases, the slides, labs, and homeworks are designed not to impart knowledge but to elicit questions; which will then prompt conversations; where, hopefully, knowledge will then be imparted[^behind_the_curtain].
 
-[^behind_the_curtain]: If you want to look a bit further behind the curtain: we believe in [playing the whole game](https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators){:target="_blank"} and in [encountering locked doors before keys](https://mkremins.github.io/blog/doors-headaches-intellectual-need/)
-{:target="_blank"}.
+[^behind_the_curtain]: If you want to look a bit further behind the curtain: we believe in [playing the whole game](https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators){:target="_blank"} and in [encountering locked doors before keys](https://mkremins.github.io/blog/doors-headaches-intellectual-need/){:target="_blank"}.
 
 > Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go.
 >
