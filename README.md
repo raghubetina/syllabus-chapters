@@ -50,6 +50,10 @@ Does something seem missing or confusing? Great, you spotted it — ask a questi
 
 ## Topics
 
+**Note: We don't yet know what velocity we'll be moving at in the new online format, relative to the old in-person format. If it's slower, then some of the below topics may be made optional or omitted altogether. The schedule below is subject to a lot of change.**
+
+**Weeks 1 & 2**
+
 _Ten thousand foot view_
 
  - CRUD applications
@@ -64,6 +68,8 @@ _HTML & CSS_
  - CSS frameworks
  - Deploying to Heroku
 
+**Weeks 3, 4**
+
 _Ruby_
 
  - Ruby foundations
@@ -76,6 +82,8 @@ _Ruby_
  - Defining our own classes
  - Class inheritance
 
+**Weeks 5 & 6**
+
 _Ruby on Rails_
 
  - Ruby on Rails foundations
@@ -83,30 +91,32 @@ _Ruby on Rails_
  - Adding a graphical user interface
  - Cookies
  - Accepting user input
+
+**Weeks 7, 8**
+
  - Database foundations
  - Database queries
  - Querying relationships
+
+**Week 9**
+
  - Sign-in/sign-out
- - Capstone: A social network
 
-_Non-universal topics_
+**Week 10**
 
- - Image uploads
- - Searching and filtering
- - Maps
- - Charts
- - Etc.
-
-_Getting real_
-
- - Adding a custom domains
- - Encrypting traffic
- - Performance and error monitoring
- - Customer feedback and analytics
-
-_Final project_
-
-
+ - Final project
+ - Optional topics:
+    - Image uploads
+    - Searching and filtering
+    - Maps
+    - Charts
+    - Etc.
+    - _Getting real_:
+        - Adding a custom domains
+        - Encrypting traffic
+        - Performance and error monitoring
+        - Customer feedback and analytics
+ - Continuing learning
 
 ## Where & When
 
