@@ -10,7 +10,7 @@
 
 The new reality is that every company is a software company. Even in traditionally brick-and-mortar industries, software is performing more and more of the work. And, of course, many companies are now purely software-based.
 
-Lacking an understanding of _how applications work_ and _how software is built_ while working in a software-based world puts you at a disadvantage.
+Lacking an understanding of _how applications work_ and _how software gets built_ while working in a software-based world puts you at a disadvantage.
 
 In this course, our goal will be to develop an understanding of both of these things. We believe the best way to do that is to just ship an application yourself.
 
