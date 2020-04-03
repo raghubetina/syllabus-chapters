@@ -89,7 +89,7 @@ All other required software is free. We'll provide step-by-step instructions for
 
 Canvas is our home base. Everything that you need can be found by starting from the course's Home Page on Canvas and looking through the links there — assignments, Piazza, office hours, class recordings, reference materials, etc.
 
-## Zoom
+## Remote class over Zoom
 
 Class will be held entirely remotely using Zoom.
 
@@ -118,13 +118,13 @@ We're all figuring this out[^social-distance] as we go along. If you have any su
 
     ![](/assets/social-distance.gif)
 
-### Asynchronous material on your own
+## Self-paced lectures
 
 Most "lecture" will be consumed at your own pace outside of class time, not over Zoom. You'll have videos that you can speed up, pause, skip back, and watch as many times as you like; which is very helpful when you're learning to code. There will also be some written material where it makes sense.
 
 The videos will all be available within Canvas under Assignments. There will be in-video questions in the videos, and they will have due dates like any other assignment. It is essential that you complete the videos before their due dates, so that you're prepared for our in-class exercises.
 
-## Piazza
+## Q&A with Piazza
 
 Most of our asynchronous communication with each other will occur over Piazza, a Q&A forum that you'll find in Canvas. (You should prefer Piazza over email; the instructors check Piazza much more frequently than email.)
 
