@@ -30,7 +30,7 @@ However, our high level objectives are to:
 
 This course is very _project-driven_. We will, as much as possible, learn each topic by applying it to real-world examples of increasing complexity. We will then combine topics to build more and more functional applications.
 
-The course is also very _question-driven_. In many cases, the slides, labs, and homeworks are designed not to impart knowledge but to elicit questions; which will then prompt conversations; where, hopefully, knowledge will then be imparted[^behind_the_curtain].
+This course is also very _question-driven_. In many cases, the slides, labs, and homeworks are designed not to impart knowledge but to elicit questions; which will then prompt conversations; where, hopefully, knowledge will then be imparted[^behind_the_curtain].
 
 > Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go.
 >
