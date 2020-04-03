@@ -39,7 +39,7 @@ This course is also very _question-driven_. In many cases, the slides, labs, and
 >
 > — [Clayton Christensen](https://twitter.com/claychristensen/status/231411154050748416?s=20){:target="_blank"}
 
-This means that _**your primary responsibility is to always be looking for questions to ask, and asking them**_. If you're passively listening or silently struggling, then this isn't going to work.
+This means that _**your primary responsibility is to always be looking for questions to ask, and asking them**_. If you just passively listen or silently struggle, then this isn't going to work.
 
 Does something seem missing or confusing? Great, you spotted it — ask a question!
 
