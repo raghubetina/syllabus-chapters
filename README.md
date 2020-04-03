@@ -36,7 +36,9 @@ The course is also very _question-driven_. In many cases, the slides, labs, and 
 >
 > — [Clayton Christensen](https://twitter.com/claychristensen/status/231411154050748416?s=20){:target="_blank"}
 
-That means that <u>your primary responsibility is to always be looking for questions to ask, and asking them</u>. If you're passively listening or silently struggling, then this isn't going to work. Does something seem missing or confusing? Great, you spotted it — ask a question!
+That means that <u>your primary responsibility is to always be looking for questions to ask, and asking them</u>. If you're passively listening or silently struggling, then this isn't going to work.
+
+Does something seem missing or confusing? Great, you spotted it — ask a question!
 
 [^behind_the_curtain]: If you want to look a bit further behind the curtain: we believe in [playing the whole game](https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators){:target="_blank"} and in [encountering locked doors before keys](https://mkremins.github.io/blog/doors-headaches-intellectual-need/){:target="_blank"}.
 
