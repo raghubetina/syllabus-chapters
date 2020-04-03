@@ -93,7 +93,7 @@ Canvas is our home base. Everything that you need can be found by starting from 
 
 Class will be held entirely remotely using Zoom.
 
- - You'll find a link for your section's Zoom "classroom" in Canvas, both on the Home Page and under Assignments.
+ - You'll find a link for your section's Zoom "classroom" in Canvas, both on the Home Page and under Assignments. You will have an assignment for each class session that contains a link to your section's Zoom.
  - You should attend the section that you are registered for. If for some reason you can't attend your own section, then it might be okay to attend a different section that week instead, but you should post on Piazza for instructor approval (it might affect the group exercises that we're planning).
  - Class is intended to be an interactive, question-filled conversation, so please turn on your camera. Caveat: we will (barring technical difficulties) post a recording[^unauthorized_recording] of class on Canvas in case anyone had trouble with their internet connection; so, if you don't want your image to appear in the recording, then it's okay to turn off your camera.
  
@@ -120,7 +120,7 @@ We're all figuring this out[^social-distance] as we go along. If you have any su
 
 ### Asynchronous material on your own
 
-Most "lecture" will be done at your own pace outside of class time, not over Zoom. You'll have videos that you can speed up, pause, skip back, and watch as many times as you like; which is very helpful when you're learning to code. There will also be some written material where it makes sense.
+Most "lecture" will be consumed at your own pace outside of class time, not over Zoom. You'll have videos that you can speed up, pause, skip back, and watch as many times as you like; which is very helpful when you're learning to code. There will also be some written material where it makes sense.
 
 The videos will all be available within Canvas under Assignments. There will be in-video questions in the videos, and they will have due dates like any other assignment. It is essential that you complete the videos before their due dates, so that you're prepared for our in-class exercises.
 
