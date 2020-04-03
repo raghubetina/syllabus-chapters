@@ -99,12 +99,14 @@ Class will be held entirely remotely using Zoom.
  - Either way, with Push-To-Talk or with the unmute keyboard shortcut, please speak up often! Remember that this course is _question-driven_ and relies on you to be looking out for and asking questions.
  - However, sometimes you might not be sure if it's a good time to interrupt or maybe you want to share a link with your classmates that's not directly relevant to the lecture. In those cases, you can:
     - Use the Raise Hand button. I or the TAs will call on you at an opportune moment.
+        - Please edit your Zoom profile and make sure your preferred name is in there.
     - Type into Zoom's chat. The TAs will be watching the chat and they will interrupt me and read your question/comment. So, if you're not sure, don't hesitate to type your questions or comments into the chat and let the TAs decide whether to escalate them.
  - Use Zoom's Nonverbal Feedback to let me know if e.g. things are moving too fast or too slow. Or hey, throw in a 👏/👎/👍 here and there.
+   
 
 [^unauthorized_recording]: Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact the instructor. Unauthorized use of classroom recordings — including distributing or posting them — is also prohibited. Under the University’s Copyright Policy, faculty own the copyright to instructional materials — including those resources created specifically for the purposes of instruction, such as syllabi, lectures and lecture notes, and presentations.  Students cannot copy, reproduce, display or distribute these materials. Students who engage in unauthorized recording, unauthorized use of a recording or unauthorized distribution of instructional materials will be referred to the appropriate University office for follow-up.
 
-We're all figuring this out[^social-distance] as we go along. If you have any suggestions, please let us know.
+We're all figuring this out[^social-distance] as we go along. If you have any suggestions or tips, please let us know.
 
 [^social-distance]: _Please excuse us as we learn to social distance._
 
