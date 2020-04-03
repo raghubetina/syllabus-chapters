@@ -112,7 +112,6 @@ We're all figuring this out[^social-distance] as we go along. If you have any su
 
     ![](/assets/social-distance.gif)
 
-
 ### Asynchronous material on your own
 
 ### Office hours
@@ -142,7 +141,7 @@ _HTML & CSS_
  - CSS frameworks
  - Deploying to Heroku
 
-**Weeks 3, 4**
+**Weeks 3 & 4**
 
 _Ruby_
 
@@ -166,7 +165,7 @@ _Ruby on Rails_
  - Cookies
  - Accepting user input
 
-**Weeks 7, 8**
+**Weeks 7 & 8**
 
  - Database foundations
  - Database queries
