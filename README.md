@@ -18,7 +18,7 @@ To do this, you will have to become a _full-stack developer_ — someone who can
 
 This involves learning much more than just one language — you'll learn multiple languages (_front-end_ and _back-end_ languages), so that you can write a _whole_ application (not just one slice of it); and how to deploy it on industrial-grade cloud infrastructure; and how to instrument it with analytics so that you can gather feedback and iterate.
 
-Our objective, ultimately, is not to learn any particular language or cloud platform. Instead, we want to:
+Our objective, though, is not to learn any particular language or cloud platform. Instead, we want to:
 
  1. Understand how most modern software functions.
  2. Communicate more credibly with developers on our teams.
