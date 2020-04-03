@@ -50,7 +50,7 @@ Does something seem missing or confusing? Great, you spotted it — ask a questi
 
 ## Topics
 
-**Note: We don't yet know what velocity we'll be moving at in the new online format, relative to the old in-person format. If it's slower, then some of the below topics may be made optional or omitted altogether. The schedule below is subject to a lot of change.**
+**Note:** We don't yet know what velocity we'll be moving at in the new online format, relative to the old in-person format. If we're moving more slowly than usual, then some of the below topics may be made optional or omitted altogether. <u>The schedule below is subject to a lot of change.</u>
 
 **Weeks 1 & 2**
 
