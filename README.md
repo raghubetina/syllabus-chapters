@@ -147,11 +147,7 @@ We are lucky to have actual developers as teaching assistants in this course, an
 
 Even if you only have one or two questions, or you're not even sure what to ask, it's okay to book a slot. We're happy to talk through anything with you.
 
-## Topics
-
-**Note:** We don't yet know what velocity we'll be moving at in the new online format, relative to the usual in-person format.
-
-If we're moving more slowly than usual, then some of the below topics may be made optional or omitted altogether. <u>The schedule below is highly subject to change.</u>
+## Schedule
 
 **Weeks 1 & 2**
 
@@ -218,3 +214,7 @@ _Ruby on Rails_
         - Performance and error monitoring
         - Customer feedback and analytics
  - Continuing learning
+
+**Note:** We don't yet know what velocity we'll be moving at in the new online format, relative to the usual in-person format.
+
+If we're moving more slowly than usual, then some of the below topics may be made optional or omitted altogether. <u>The schedule above is highly subject to change.</u>
