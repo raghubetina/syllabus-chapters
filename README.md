@@ -57,31 +57,59 @@ Learning assessment and your final grade will be based on the following:
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
  - _Spring 2020: There is no midterm exam or attendance grade this quarter._
 
-Most assessments will be automatic and instant — you will have a command that you can run as many times as you want that will check whether the app that you're working on works correctly or not.
+Most assessments will be automatic and instant — you will have a command that you can run that will check whether the app that you're working on works correctly or not and report back a grade. You can run it as often as you like.
 
 Since most assessments are objective and binary (it works or it doesn't work), there is no curve. Potentially, everyone could get an A; or, everyone could get a D. Either you make your app work the way it's supposed to or you don't; it doesn't matter whether everyone else does too.
 
 So don't worry if someone seems like others came in with more experience; don't compare yourself to anyone else; only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
-## Expectations & Time Commitment
+## Expectations & time commitment
 
-This course is designed for a beginner who has never programmed before. It is our goal to make programming accessible to as many people as possible, and dispel the mystique that surrounds it. It's really possible, with passion and persistence, for a beginner to become productive very quickly with today's tools.
+This course is designed for a beginner who has never programmed before. It is our goal to make programming accessible to as many people as possible, and dispel some of the mystique that surrounds it. It's really possible, with passion and persistence, for a beginner to become productive very quickly with today's tools.
 
 **Note:** It's _possible_, but not always _easy_. If you have never seen a line of code before, you are going to be learning a lot of new things all at once, and so should plan to spend a significant amount of time. If you already have some programming experience, you may have to spend less time initially while we learn basics; but once we get into Rails, it will likely be all new to you too. Historically, students have reported spending 5 ± 2 hours each week outside of class.
 
-What you can expect from us in return is a lot of support. We know it's a lot, and we're here for you — plenty of one-on-one office hours every week, study halls, etc. We all will help each other on the class discussion board. There is no such thing as a dumb question; we're all beginners here, learning together.
+What you can expect from us in return is a lot of support. We all will help each other on Piazza, the class Q&A forum. There will be plenty of one-on-one office hours available for booking every week, and if you can't find a slot that works for you then post a private question on Piazza with a few times we'll work it out.
 
-## Required Materials
+## Required materials
 
-We will be using cloud-based software, so that everyone's environments are consistent and no one has to worry about dealing with e.g. installing software on work-issued laptops. 
+We will be using cloud-based software to write and run our applications entirely within our web browsers, so that everyone's environments are the same (no Windows vs Mac inconsistencies) and no one has to worry about e.g. going through their IT department to install Ruby on a work-issued laptop. Also, if your computer dies part-way through the quarter, no problem; you can borrow any old laptop or Chromebook and pick up right where you left off.
 
-Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $9/month. If you [jump through some hoops to get the student discount](https://www.gitpod.io/github-student-developer-pack/){:target="_blank"}, or if you use it for less than 50/hours per month (maybe possible if you're careful about closing it immediately whenever you're done working), then Gitpod costs $0/month.
+Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $9/month. If you jump through some hoops to get the student discount, or if you use it for less than 50/hours per month (maybe possible if you're careful about closing it immediately whenever you're done working), then Gitpod costs $0/month.
 
-All other required software is free.
+All other required software is free. You'll sign up for Gitpod and other required services during Week 1.
+
+## Canvas
+
+Canvas is our home base. Everything that you need can be found by starting from the course's Home Page on Canvas and looking through the links there — assignments, Piazza, office hours, class recordings, reference materials, etc.
 
 ## Zoom
 
-Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact the instructor. Unauthorized use of classroom recordings — including distributing or posting them — is also prohibited. Under the University’s Copyright Policy, faculty own the copyright to instructional materials — including those resources created specifically for the purposes of instruction, such as syllabi, lectures and lecture notes, and presentations.  Students cannot copy, reproduce, display or distribute these materials. Students who engage in unauthorized recording, unauthorized use of a recording or unauthorized distribution of instructional materials will be referred to the appropriate University office for follow-up.
+We'll be using Zoom for our class meetings.
+
+ - You'll find a link for your section's Zoom "classroom" in Canvas, both on the Home Page and under Assignments.
+ - You should attend the section that you are registered for. If for some reason you can't attend your own section, then it might be okay to attend a different section that week instead, but you should post on Piazza for instructor approval (it might affect the group exercises that we're planning).
+ - Class is intended to be an interactive, question-filled conversation, so please turn on your camera. Caveat: we will (barring technical difficulties) post a recording[^unauthorized_recording] of class on Canvas in case anyone had trouble with their internet connection; so, if you don't want your image to appear in the recording, then it's okay to turn off your camera.
+ 
+    We will be making heavy use of Zoom's Breakout Rooms for group activities. We will not be posting recordings of Breakout Rooms on Canvas, so we do expect your video to be on in Breakout Rooms so that you can interact with your group mates.
+ - In general, it's a good idea to keep your microphone muted, and use Push-To-Talk when you have something to say. Press and hold the <kbd>space</kbd> bar to unmute/talk, and then release to re-mute yourself. Like a walkie-talkie (remember those?).
+
+    This makes it easier to pipe up with questions whenever one occurs to you, without having to fumble around with your mouse for the tiny <i class="fas fa-microphone-slash"></i> icon. Watch out, though: if you were chatting, your cursor might be in the chat still, in which case pressing and holding <kbd>space</kbd> might just type a bunch of spaces into the chat instead of unmuting you.
+ - Alternatively, you can memorize the keyboard shortcut for muting/unmuting yourself: <kbd>cmd</kbd>`+`<kbd>shift</kbd>`+`<kbd>A</kbd> (Mac) or <kbd>ctrl</kbd>`+`<kbd>A</kbd> (Windows). [Make it a Global Shortcut in your Zoom settings](https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-Shortcuts-for-Zoom){:target="_blank"} so that you can use it from everywhere, not just within Zoom.
+ - Either way, with Push-To-Talk or with the unmute keyboard shortcut, please speak up often! Remember that this course is _question-driven_ and relies on you to be looking out for and asking questions.
+ - However, sometimes you might not be sure if it's a good time to interrupt or maybe you want to share a link with your classmates that's not directly relevant to the lecture. In those cases, you can:
+    - Use the Raise Hand button. I or the TAs will call on you at an opportune moment.
+    - Type into Zoom's chat. The TAs will be watching the chat and they will interrupt me and read your question/comment. So, if you're not sure, don't hesitate to type your questions or comments into the chat and let the TAs decide whether to escalate them.
+ - Use Zoom's Nonverbal Feedback to let me know if e.g. things are moving too fast or too slow. Or hey, throw in a 👏/👎/👍 here and there.
+
+[^unauthorized_recording]: Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact the instructor. Unauthorized use of classroom recordings — including distributing or posting them — is also prohibited. Under the University’s Copyright Policy, faculty own the copyright to instructional materials — including those resources created specifically for the purposes of instruction, such as syllabi, lectures and lecture notes, and presentations.  Students cannot copy, reproduce, display or distribute these materials. Students who engage in unauthorized recording, unauthorized use of a recording or unauthorized distribution of instructional materials will be referred to the appropriate University office for follow-up.
+
+We're all figuring this out[^social-distance] as we go along. If you have any suggestions, please let us know.
+
+[^social-distance]: _Please excuse us as we learn to social distance._
+
+    ![](/assets/social-distance.gif)
+
 
 ### Asynchronous material on your own
 
