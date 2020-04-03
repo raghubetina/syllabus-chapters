@@ -45,13 +45,48 @@ Does something seem missing or confusing? Great, you spotted it — ask a questi
 
 ## Format
 
+### Zoom
 
+### Asynchronous videos
 
+### Office hours
 
+### Piazza
+
+## Assessments
+
+Learning assessment and your final grade will be based on the following:
+
+ - 40% asynchronous/self-paced/at-home/introductory material.
+    - You will have videos, readings, and accompanying walkthrough projects and quizzes to learn new concepts at your own pace at home.
+ - 40% synchronous/collaborative/classtime/enrichment material.
+    - During class meetings, we'll work on various kinds of activities to deepen your understanding of concepts, usually in groups.
+ - 20% final project.
+    - In the last week or two, we'll devote most of our time to a capstone project. You will have two options for the final project:
+        - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
+        - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
+
+Most assessments will be automatic and instant — you will have a command that you can run as many times as you want that will check whether your app works correctly or not. Since most assessments are binary and objective, there is no curve. Potentially, everyone could get an A; or, everyone could get a D. Either you make your app work the way it's supposed to or you don't; it doesn't matter what someone else does or doesn't do.
+
+## Expectations & Time Commitment
+
+This course is designed for a beginner who has never programmed before. It is our goal to make programming accessible to as many people as possible, and dispel the mystique that surrounds it. It's really possible, with passion and persistence, for a beginner to become productive very quickly with today's tools.
+
+**Note:** It's _possible_, but not always _easy_. If you have never seen a line of code before, you are going to be learning a lot of new things all at once, and so should plan to spend a significant amount of time. If you already have some programming experience, you may have to spend less time initially while we learn basics; but once we get into Rails, it will likely be all new to you too. Historically, students have reported spending 5 ± 2 hours each week outside of class.
+
+What you can expect from us in return is a lot of support. We know it's a lot, and we're here for you — plenty of one-on-one office hours every week, study halls, etc. We all will help each other on the class discussion board. There is no such thing as a dumb question; we're all beginners here, learning together.
+
+## Required Materials
+
+We will be using cloud-based software, so that everyone's environments are consistent and no one has to worry about dealing with e.g. installing software on work-issued laptops. 
+
+Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $30/month. [If you jump through some hoops to get the student price, it's $9/month.](https://www.gitpod.io/github-student-developer-pack/){:target="_blank"} If you use less than 100/month, which might be possible if you're careful about closing your tab when you're done working, then it's free.
+
+All other required software is free.
 
 ## Topics
 
-**Note:** We don't yet know what velocity we'll be moving at in the new online format, relative to the old in-person format.
+**Note:** We don't yet know what velocity we'll be moving at in the new online format, relative to the usual in-person format.
 
 If we're moving more slowly than usual, then some of the below topics may be made optional or omitted altogether. <u>The schedule below is highly subject to change.</u>
 
