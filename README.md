@@ -132,7 +132,7 @@ Remember that in this course, **your primary responsibility is to always be look
 
  - You can make your questions visible to everyone, or just to instructors.
  - You can be anonymous to everyone, or anonymous to classmates only.
- - If you have a question about something, it’s almost guaranteed that someone else has the same question. You'd be doing everyone a favor by being the first one to ask it — don't be afraid of looking silly! (You can ask anonymously if you really want to.)
+ - If you have a question about something, it’s almost guaranteed that someone else has the same question. You'd be doing everyone a favor by being the first one to ask it — don't be afraid of looking silly!
  - That said, please do everyone a favor and:
    - Make your question visible to everyone rather than to instructors only (be anonymous if you want to).
    - Browse the list of older questions and see whether your question has already been asked and answered.
@@ -143,7 +143,7 @@ Remember that in this course, **your primary responsibility is to always be look
 
 ## Office hours
 
-We are lucky to have actual developers as teaching assistants in this course, and you can book one-on-one appointments with them for individual help. You'll find links to calendars for making these appointments on the Canvas homepage. Utilize this amazing resource! Developers are expensive, in the real world.
+We are lucky to have actual developers as teaching assistants in this course, and you can book one-on-one appointments with them for individual help. You'll find links to calendars for making these appointments on the Canvas homepage. Utilize this amazing resource! In the real world, developer time is expensive.
 
 Even if you only have one or two questions, or you're not even sure what to ask, it's okay to book a slot. We're happy to talk through anything with you.
 
