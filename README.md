@@ -16,9 +16,9 @@ In this course, you will demystify these things and dispel this disadvantage. We
 
 To do this, you will have to become a _full-stack developer_ — someone who can take _an idea_ all the way to _a live app on the internet_.
 
-This involves learning much more than just one language — you'll learn multiple languages (_front-end_ and _back-end_ languages), so that you can write a _whole_ application (not just one slice of it); and how to deploy it on industrial-grade cloud infrastructure; and how to instrument it with analytics so that you can gather feedback and iterate.
+This involves learning much more than just one language. You'll learn multiple languages (_front-end_ and _back-end_ languages), so that you can write a _whole_ application (not just one slice of it). You'll also learn how to deploy it on industrial-grade cloud infrastructure, as well as how to instrument it with analytics so that you can gather feedback and iterate.
 
-Our objective, though, is not to learn any particular language or cloud platform or analytics tool. Instead, we want to:
+Our objective, though, is not to learn specific technologies. Instead, we want to:
 
  1. Understand how most modern software functions.
  2. Communicate more credibly with developers on our teams.
@@ -61,7 +61,7 @@ Most assessments will be automatic and instant — you will have a command that 
 
 Since most assessments are objective and binary (it works or it doesn't work), _there is no curve_. Potentially, everyone could get an A; or, everyone could get a D. Either you make each project work the way it's supposed to, or you don't; and by the end you can ship an app; or you can't.
 
-So don't worry if someone seems like others came in with more experience; don't compare yourself to anyone else; only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
+So don't worry if it seems like others came in with more experience; don't compare yourself to anyone else. Only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
 **Note:** When you're looking at assignments in Canvas, it's much more helpful in this course to **Show by Type** rather than By Date (click the button in the top-right corner):
 
@@ -138,7 +138,7 @@ Remember that in this course, **your primary responsibility is to always be look
    - Browse the list of older questions and see whether your question has already been asked and answered.
    - Give your question a descriptive subject line, so that it’s easier to browse for.
  - Prefer Piazza over email — the instructors check Piazza much more frequently.
- - When you're working on your own, _you’re only allowed to get stuck for 15 minutes_ before asking a question on Piazza. Just type up what your stuck on in a question, post it, and then get back to struggling — don't struggle for longer than 15 minutes without at least asking the question.
+ - When you're working on your own, _you’re only allowed to get stuck for 15 minutes_ before asking a question on Piazza. Just type up what you're stuck on in a Piazza post, and then get back to struggling. Don't struggle for longer than 15 minutes without at least asking the question.
  - Whatever you do, just **ask lots of questions**!
 
 ## Office hours
