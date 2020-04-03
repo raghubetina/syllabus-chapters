@@ -26,15 +26,25 @@ However, our high level objectives are to:
  6. Be able to make and test small changes to an application yourself.
  7. Be empowered with a new, powerful, and just plain fun creative outlet.
 
+## Approach
+
+This course is very _project-driven_. We will, as much as possible, learn each topic by applying it to real-world examples of increasing complexity. We will then combine topics to build more and more functional applications.
+
+The course is also very _question-driven_. In many cases, the slides, labs, and homeworks are designed not to impart knowledge but to elicit questions; which will then prompt conversations; where, hopefully, knowledge will then be imparted[^behind_the_curtain].
+
+> Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go.
+>
+> — [Clayton Christensen](https://twitter.com/claychristensen/status/231411154050748416?s=20){:target="_blank"}
+
+That means that your main job is <u>to always be looking for questions to ask, and asking them</u>. If you're passively listening or silently struggling, then this isn't going to work. Does something seem missing or confusing? Great, you spotted it — ask a question!
+
+[^behind_the_curtain]: If you want to look a bit further behind the curtain: we believe in [playing the whole game](https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators){:target="_blank"} and in [encountering locked doors before keys](https://mkremins.github.io/blog/doors-headaches-intellectual-need/){:target="_blank"}.
+
 ## Format
 
-**Note:** We're adapting to remote learning
 
-This course is entirely project-driven. We will build a series of applications together in class. We will start with a simple idea and learn just what we need about various technologies (database architecture, hosting, deployment, Git, HTML, CSS, Ruby, Rails) to make that idea real.
 
-We will then build a slightly more complicated idea, and deepen our knowledge of each topic. And then an even more complicated idea. In this way, we will spiral across topics picking up essential, applicable knowledge; what we're not going to do are deep theoretical dives into each topic, one after the other, without ever getting to build real stuff.
 
-The process will generally consist of the instructor demonstrating a concept in a tutorial app and then giving the class a challenge to practice it and think up questions. You are strongly encouraged to team up and work together on the challenges.
 
 ## Topics
 
