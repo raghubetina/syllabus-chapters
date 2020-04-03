@@ -47,9 +47,9 @@ Does something seem missing or confusing? Great, you spotted it — ask a questi
 
 Learning assessment and your final grade will be based on the following:
 
- - 40% asynchronous/self-paced/at-home/introductory material.
+ - 40% asynchronous / self-paced / at-home / introductory material.
     - You will have videos, readings, and accompanying walkthrough projects and exercises to complete to learn new concepts at your own pace outside of class.
- - 40% synchronous/collaborative/classtime/enrichment material.
+ - 40% synchronous / collaborative / classtime / enrichment material.
     - During class meetings, we'll work together on various kinds of activities to deepen your understanding of concepts; usually in groups.
  - 20% capstone project.
     - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
