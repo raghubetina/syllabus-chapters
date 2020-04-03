@@ -77,7 +77,7 @@ We will be using cloud-based software to write and run our applications entirely
 
 Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $9/month. If you jump through some hoops to get the student discount, or if you use it for less than 50/hours per month (maybe possible if you're careful about closing it immediately whenever you're done working), then Gitpod costs $0/month.
 
-All other required software is free. You'll sign up for Gitpod and other required services during Week 1.
+All other required software is free. You'll have instructions for signing up for Gitpod and other required services during Week 1.
 
 ## Canvas
 
