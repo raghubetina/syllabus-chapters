@@ -63,6 +63,12 @@ Since most assessments are objective and binary (it works or it doesn't work), _
 
 So don't worry if someone seems like others came in with more experience; don't compare yourself to anyone else; only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
+**Note:** When you're looking at assignments in Canvas, it's much more helpful in this course to **Show by Type** rather than By Date (click the button in the top-right corner):
+
+![](/assets/show-by-type.png)
+
+This will show the assignments grouped and ordered, and will show you the weight of each group.
+
 ## Expectations & time commitment
 
 This course is designed for a beginner who has never programmed before. It is our goal to make programming accessible to as many people as possible, and dispel some of the mystique that surrounds it. It's really possible, with passion and persistence, for a beginner to become productive very quickly with today's tools.
