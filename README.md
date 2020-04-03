@@ -12,19 +12,20 @@ The new reality is that every company is a software company. Even in traditional
 
 Lacking an understanding of _how applications work_ and _how software gets built_ while working in a software-based world puts you at a disadvantage.
 
-In this course, our goal will be to develop an understanding of both of these things. We believe the best way to do that is to just ship an application yourself.
+In this course, we will dispel this disadvantage. We believe the best way to do that is to just ship an application yourself.
 
-To do this, you will have to become a _full-stack developer_ — you will take _an idea_ all the way to _a live app on the internet_. This involves learning much more than just one language — you'll learn multiple languages (front-end and back-end) so that you can write a whole application (not just one slice of it), and how to deploy it on industrial-grade hosting infrastructure, and how to instrument it with analytics so that you can gather feedback and iterate.
+To do this, you will have to become a _full-stack developer_ — someone who can take _an idea_ all the way to _a live app on the internet_.
 
-However, our high level objectives are to:
+This involves learning much more than just one language — you'll learn multiple languages (front-end and back-end), so that you can write a whole application (not just one slice of it), and how to deploy it on industrial-grade cloud infrastructure, and how to instrument it with analytics so that you can gather feedback and iterate.
 
- 1. Understand the general, language-independent patterns of how applications fit together.
- 2. Communicate more effectively and credibly with developers on our teams.
- 3. Develop a builder's eye for problems that can be solved with technology.
- 4. Prioritize features more intelligently by getting a better feel for their costs.
- 5. Implement a modern software development workflow, from task management to version control to quality assurance to deployment.
- 6. Be able to make and test small changes to an application yourself.
- 7. Be empowered with a new, powerful, and just plain fun creative outlet.
+Our objective, ultimately, is not to learn any particular language or cloud platform. Instead, we want to:
+
+ 1. Understand how most modern software functions.
+ 2. Communicate more credibly with developers on our teams.
+ 3. Grow an eye for problems that can be solved with technology.
+ 4. Prioritize features more frugally by getting a better feel for their costs.
+ 5. Be able to research and clearly specify changes we want made to products.
+ 6. Be empowered with a new, powerful, and just plain fun creative outlet.
 
 ## Approach
 
