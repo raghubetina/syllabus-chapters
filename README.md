@@ -50,7 +50,7 @@ Learning assessment and your final grade will be based on the following:
  - 40% asynchronous / self-paced / at-home / introductory material.
     - You will have videos, readings, and accompanying walkthrough projects and exercises to complete to learn new concepts at your own pace outside of class.
  - 40% synchronous / collaborative / classtime / enrichment material.
-    - During class meetings, we'll work together on various kinds of activities to deepen your understanding of concepts; usually in groups.
+    - During class meetings, we'll work together on various exercises to deepen your understanding of concepts; usually in groups. Most of these exercises can be completed after class; some of them can only be done during class.
  - 20% capstone project.
     - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
         - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
@@ -85,7 +85,7 @@ Canvas is our home base. Everything that you need can be found by starting from 
 
 ## Zoom
 
-We'll be using Zoom for our class meetings.
+Class will be held entirely remotely using Zoom.
 
  - You'll find a link for your section's Zoom "classroom" in Canvas, both on the Home Page and under Assignments.
  - You should attend the section that you are registered for. If for some reason you can't attend your own section, then it might be okay to attend a different section that week instead, but you should post on Piazza for instructor approval (it might affect the group exercises that we're planning).
