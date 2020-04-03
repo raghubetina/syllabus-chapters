@@ -8,7 +8,7 @@
 
 ## Objectives
 
-The new reality is that every company is a software company. Even in traditionally brick-and-mortar industries, software is performing more and more of the work. And, of course, many companies (especially "lean startups") are purely software-based.
+The new reality is that every company is a software company. Even in traditionally brick-and-mortar industries, software is performing more and more of the work. And, of course, many companies are now purely software-based.
 
 Lacking an understanding of _how software works_ and _how software is built_ while working in a software-based world puts you at a disadvantage.
 
