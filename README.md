@@ -48,13 +48,14 @@ Does something seem missing or confusing? Great, you spotted it — ask a questi
 Learning assessment and your final grade will be based on the following:
 
  - 40% asynchronous/self-paced/at-home/introductory material.
-    - You will have videos, readings, and accompanying walkthrough projects and quizzes to complete to learn new concepts at your own pace at home.
+    - You will have videos, readings, and accompanying walkthrough projects and exercises to complete to learn new concepts at your own pace outside of class.
  - 40% synchronous/collaborative/classtime/enrichment material.
     - During class meetings, we'll work together on various kinds of activities to deepen your understanding of concepts; usually in groups.
  - 20% capstone project.
     - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
         - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
+ - _Spring 2020*: There is no midterm exam or attendance grade this quarter._
 
 Most assessments will be automatic and instant — you will have a command that you can run as many times as you want that will check whether your app works correctly or not.
 
@@ -72,7 +73,7 @@ What you can expect from us in return is a lot of support. We know it's a lot, a
 
 We will be using cloud-based software, so that everyone's environments are consistent and no one has to worry about dealing with e.g. installing software on work-issued laptops. 
 
-Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $30/month. [If you jump through some hoops to get the student price, it's $9/month.](https://www.gitpod.io/github-student-developer-pack/){:target="_blank"} If you use less than 100 hours/month, which should be possible if you're careful about closing your tab when you're done working, then it's free.
+Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $9/month. If you [jump through some hoops to get the student discount](https://www.gitpod.io/github-student-developer-pack/){:target="_blank"}, or if you use it for less than 50/hours per month (maybe possible if you're careful about closing it immediately whenever you're done working), then Gitpod costs $0/month.
 
 All other required software is free.
 
