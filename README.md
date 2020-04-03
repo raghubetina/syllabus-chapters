@@ -55,11 +55,13 @@ Learning assessment and your final grade will be based on the following:
     - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
         - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
- - _Spring 2020*: There is no midterm exam or attendance grade this quarter._
+ - _Spring 2020: There is no midterm exam or attendance grade this quarter._
 
-Most assessments will be automatic and instant — you will have a command that you can run as many times as you want that will check whether your app works correctly or not.
+Most assessments will be automatic and instant — you will have a command that you can run as many times as you want that will check whether the app that you're working on works correctly or not.
 
-Since most assessments are binary and objective, there is no curve. Potentially, everyone could get an A; or, everyone could get a D. Either you make your app work the way it's supposed to or you don't; it doesn't matter what someone else does or doesn't do.
+Since most assessments are objective and binary (it works or it doesn't work), there is no curve. Potentially, everyone could get an A; or, everyone could get a D. Either you make your app work the way it's supposed to or you don't; it doesn't matter whether everyone else does too.
+
+So don't worry if someone seems like others came in with more experience; don't compare yourself to anyone else; only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
 ## Expectations & Time Commitment
 
