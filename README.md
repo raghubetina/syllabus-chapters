@@ -12,7 +12,7 @@ The new reality is that every company is a software company. Even in traditional
 
 Lacking an understanding of _how applications work_ and _how software gets built_ while working in a software-based world puts you at a disadvantage.
 
-In this course, we will demystify these things and dispel this disadvantage. We believe the best way for you to do that is to just ship an application yourself.
+In this course, you will demystify these things and dispel this disadvantage. We believe the best way for you to do that is to just ship an application yourself.
 
 To do this, you will have to become a _full-stack developer_ — someone who can take _an idea_ all the way to _a live app on the internet_.
 
