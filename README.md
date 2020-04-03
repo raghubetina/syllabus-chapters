@@ -24,7 +24,7 @@ Our objective, though, is not to learn any particular language or cloud platform
  2. Communicate more credibly with developers on our teams.
  3. Grow an eye for problems that can be solved with technology.
  4. Prioritize features more frugally by getting a better feel for their costs.
- 5. Be able to research and clearly specify changes we want made to products.
+ 5. Research and specify changes we want made to products more clearly.
  6. Be empowered with a new, powerful, and just plain fun creative outlet.
 
 ## Approach
@@ -43,30 +43,22 @@ This means that _**your primary responsibility is to always be looking for quest
 
 Does something seem missing or confusing? Great, you spotted it — ask a question!
 
-## Format
-
-### Zoom
-
-### Asynchronous videos
-
-### Office hours
-
-### Piazza
-
 ## Assessments
 
 Learning assessment and your final grade will be based on the following:
 
  - 40% asynchronous/self-paced/at-home/introductory material.
-    - You will have videos, readings, and accompanying walkthrough projects and quizzes to learn new concepts at your own pace at home.
+    - You will have videos, readings, and accompanying walkthrough projects and quizzes to complete to learn new concepts at your own pace at home.
  - 40% synchronous/collaborative/classtime/enrichment material.
-    - During class meetings, we'll work on various kinds of activities to deepen your understanding of concepts, usually in groups.
- - 20% final project.
-    - In the last week or two, we'll devote most of our time to a capstone project. You will have two options for the final project:
+    - During class meetings, we'll work together on various kinds of activities to deepen your understanding of concepts; usually in groups.
+ - 20% capstone project.
+    - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
         - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
 
-Most assessments will be automatic and instant — you will have a command that you can run as many times as you want that will check whether your app works correctly or not. Since most assessments are binary and objective, there is no curve. Potentially, everyone could get an A; or, everyone could get a D. Either you make your app work the way it's supposed to or you don't; it doesn't matter what someone else does or doesn't do.
+Most assessments will be automatic and instant — you will have a command that you can run as many times as you want that will check whether your app works correctly or not.
+
+Since most assessments are binary and objective, there is no curve. Potentially, everyone could get an A; or, everyone could get a D. Either you make your app work the way it's supposed to or you don't; it doesn't matter what someone else does or doesn't do.
 
 ## Expectations & Time Commitment
 
@@ -80,9 +72,20 @@ What you can expect from us in return is a lot of support. We know it's a lot, a
 
 We will be using cloud-based software, so that everyone's environments are consistent and no one has to worry about dealing with e.g. installing software on work-issued laptops. 
 
-Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $30/month. [If you jump through some hoops to get the student price, it's $9/month.](https://www.gitpod.io/github-student-developer-pack/){:target="_blank"} If you use less than 100/month, which might be possible if you're careful about closing your tab when you're done working, then it's free.
+Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $30/month. [If you jump through some hoops to get the student price, it's $9/month.](https://www.gitpod.io/github-student-developer-pack/){:target="_blank"} If you use less than 100 hours/month, which should be possible if you're careful about closing your tab when you're done working, then it's free.
 
 All other required software is free.
+
+## Zoom
+
+Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact the instructor. Unauthorized use of classroom recordings — including distributing or posting them — is also prohibited. Under the University’s Copyright Policy, faculty own the copyright to instructional materials — including those resources created specifically for the purposes of instruction, such as syllabi, lectures and lecture notes, and presentations.  Students cannot copy, reproduce, display or distribute these materials. Students who engage in unauthorized recording, unauthorized use of a recording or unauthorized distribution of instructional materials will be referred to the appropriate University office for follow-up.
+
+### Asynchronous material on your own
+
+### Office hours
+
+### Piazza
+
 
 ## Topics
 
@@ -142,7 +145,7 @@ _Ruby on Rails_
 
 **Week 10**
 
- - Final project
+ - Capstone project
  - Optional topics:
     - Image uploads
     - Searching and filtering
