@@ -57,9 +57,9 @@ Learning assessment and your final grade will be based on the following:
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
  - _Spring 2020: There is no midterm exam or attendance grade this quarter._
 
-Most assessments will be automatic and instant — you will have a command that you can run that will check whether the app that you're working on works correctly or not and report back a grade. You can run it as often as you like.
+Most assessments will be automatic and instant — you will have a command that you can run that will check whether the app that you're working on works correctly or not, and it will report back a grade. You can run it as often as you like.
 
-Since most assessments are objective and binary (it works or it doesn't work), there is no curve. Potentially, everyone could get an A; or, everyone could get a D. Either you make your app work the way it's supposed to or you don't; it doesn't matter whether everyone else does too.
+Since most assessments are objective and binary (it works or it doesn't work), _there is no curve_. Potentially, everyone could get an A; or, everyone could get a D. Either you make each project work the way it's supposed to, or you don't; and by the end you can ship an app; or you can't.
 
 So don't worry if someone seems like others came in with more experience; don't compare yourself to anyone else; only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
@@ -69,7 +69,7 @@ This course is designed for a beginner who has never programmed before. It is ou
 
 **Note:** It's _possible_, but not always _easy_. If you have never seen a line of code before, you are going to be learning a lot of new things all at once, and so should plan to spend a significant amount of time. If you already have some programming experience, you may have to spend less time initially while we learn basics; but once we get into Rails, it will likely be all new to you too. Historically, students have reported spending 5 ± 2 hours each week outside of class.
 
-What you can expect from us in return is a lot of support. We all will help each other on Piazza, the class Q&A forum. There will be plenty of one-on-one office hours available for booking every week, and if you can't find a slot that works for you then post a private question on Piazza with a few times we'll work it out.
+What you can expect from us in return is a lot of support. We all will help each other on Piazza, the class Q&A forum. There will be plenty of one-on-one office hours available for booking every week; and if you can't find a slot that works for you on our calendars, then post a private question on Piazza with a few times that work for you and one of us will meet with you then.
 
 ## Required materials
 
