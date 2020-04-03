@@ -50,7 +50,7 @@ Learning assessment and your final grade will be based on the following:
  - 40% asynchronous / self-paced / at-home / introductory material.
     - You will have videos, readings, and accompanying walkthrough projects and exercises to complete to learn new concepts at your own pace outside of class.
  - 40% synchronous / collaborative / classtime / enrichment material.
-    - During class meetings, we'll work together on various exercises to deepen your understanding of concepts; usually in groups. Most of these exercises can be completed after class; some of them can only be done during class. If you _cannot_ attend class synchronously (e.g. because you're located on the other side of the planet) then contact the instructor and we'll work something out.
+    - During class meetings, we'll work together on various exercises to deepen your understanding of concepts; usually in groups. Most of these exercises can be completed after class; some of them can only be done during class (if you _cannot_ attend class synchronously (e.g. because you're located on the other side of the planet, then contact the instructor and we'll work something out for these).
  - 20% capstone project.
     - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
         - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
