@@ -143,7 +143,7 @@ Remember that in this course, **your primary responsibility is to always be look
 
 ## Office hours
 
-We are lucky to have actual developers as teaching assistants in this course, and you can book one-on-one appointments with them for individual help. You'll find links to calendars for making these appointments on the Canvas homepage. Utilize this amazing resource! In the real world, developer time is expensive.
+We are lucky to have professional developers as teaching assistants in this course, in addition to former students. You can book one-on-one appointments with them for individual help. You'll find links to calendars for making these appointments on the Canvas homepage. Utilize this amazing resource! In the real world, developer time is expensive.
 
 Even if you only have one or two questions, or you're not even sure what to ask, it's okay to book a slot. We're happy to talk through anything with you.
 
