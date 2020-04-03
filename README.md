@@ -16,7 +16,7 @@ In this course, we will dispel this disadvantage. We believe the best way to do 
 
 To do this, you will have to become a _full-stack developer_ — someone who can take _an idea_ all the way to _a live app on the internet_.
 
-This involves learning much more than just one language — you'll learn multiple languages (front-end and back-end), so that you can write a whole application (not just one slice of it), and how to deploy it on industrial-grade cloud infrastructure, and how to instrument it with analytics so that you can gather feedback and iterate.
+This involves learning much more than just one language — you'll learn multiple languages (_front-end_ and _back-end_ languages), so that you can write a _whole_ application (not just one slice of it); and how to deploy it on industrial-grade cloud infrastructure; and how to instrument it with analytics so that you can gather feedback and iterate.
 
 Our objective, ultimately, is not to learn any particular language or cloud platform. Instead, we want to:
 
@@ -51,7 +51,9 @@ Does something seem missing or confusing? Great, you spotted it — ask a questi
 
 ## Topics
 
-**Note:** We don't yet know what velocity we'll be moving at in the new online format, relative to the old in-person format. If we're moving more slowly than usual, then some of the below topics may be made optional or omitted altogether. <u>The schedule below is highly subject to change.</u>
+**Note:** We don't yet know what velocity we'll be moving at in the new online format, relative to the old in-person format.
+
+If we're moving more slowly than usual, then some of the below topics may be made optional or omitted altogether. <u>The schedule below is highly subject to change.</u>
 
 **Weeks 1 & 2**
 
