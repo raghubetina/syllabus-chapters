@@ -114,10 +114,32 @@ We're all figuring this out[^social-distance] as we go along. If you have any su
 
 ### Asynchronous material on your own
 
-### Office hours
+Most "lecture" will be done at your own pace outside of class time, not over Zoom. You'll have videos that you can speed up, pause, skip back, and watch as many times as you like; which is very helpful when you're learning to code. There will also be some written material where it makes sense.
 
-### Piazza
+The videos will all be available within Canvas under Assignments. There will be in-video questions in the videos, and they will have due dates like any other assignment. It is essential that you complete the videos before their due dates, so that you're prepared for our in-class exercises.
 
+## Piazza
+
+Most of our asynchronous communication with each other will occur over Piazza, a Q&A forum that you'll find in Canvas. (You should prefer Piazza over email; the instructors check Piazza much more frequently than email.)
+
+Remember that in this course, **your primary responsibility is to always be looking for questions to ask, and asking them**. So Piazza is a crucial tool. Here are some guidelines for using it effectively:
+
+ - You can make your questions visible to everyone, or just to instructors.
+ - You can be anonymous to everyone, or anonymous to classmates only.
+ - If you have a question about something, it’s almost guaranteed that someone else has the same question. You'd be doing everyone a favor by being the first one to ask it — don't be afraid of looking silly! (You can ask anonymously if you really want to.)
+ - That said, please do everyone a favor and:
+   - Make your question visible to everyone rather than to instructors only (be anonymous if you want to).
+   - Browse the list of older questions and see whether your question has already been asked and answered.
+   - Give your question a descriptive subject line, so that it’s easier to browse for.
+ - Prefer Piazza over email — the instructors check Piazza much more frequently.
+ - When you're working on your own, _you’re only allowed to get stuck for 15 minutes_ before asking a question on Piazza. Just type up what your stuck on in a question, post it, and then get back to struggling — don't struggle for longer than 15 minutes without at least asking the question.
+ - Whatever you do, just **ask lots of questions**!
+
+## Office hours
+
+We are lucky to have actual developers as teaching assistants in this course, and you can book one-on-one appointments with them for individual help. You'll find links to calendars for making these appointments on the Canvas homepage. Utilize this amazing resource! Developers are expensive, in the real world.
+
+Even if you only have one or two questions, or you're not even sure what to ask, it's okay to book a slot. We're happy to talk through anything with you.
 
 ## Topics
 
@@ -190,21 +212,3 @@ _Ruby on Rails_
         - Performance and error monitoring
         - Customer feedback and analytics
  - Continuing learning
-
-## Where & When
-
-
-
-
-
-## What
-
-
-
-Please update your Zoom profile with your preferred name
-
-Please enable video, but turn it off if you don’t want your image to appear in class recordings, which will be posted immediately after class (barring technical issues).
-
-You will be expected to participate in group activities with video and audio enabled. Group activities will occur in breakout rooms, which we will not record or post on the course website.
-
-Gitpod subscription - $30 or $9 per month
