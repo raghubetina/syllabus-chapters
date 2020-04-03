@@ -93,9 +93,15 @@ Canvas is our home base. Everything that you need can be found by starting from 
 
 Class will be held entirely remotely using Zoom.
 
- - You'll find a link for your section's Zoom "classroom" in Canvas, both on the Home Page and under Assignments. You will have an assignment for each meeting, and the assignment will contain a link to your section's Zoom "classroom". It's just the same link all quarter; they don't change. The assignments are only there so that you have events showing up in your Canvas calendar.
- - You should attend the section that you are registered for. If for some reason you can't attend your own section, then it might be okay to attend a different section that week instead, but you should post on Piazza for instructor approval (it might affect the group exercises that we're planning).
- - Class is intended to be an interactive, question-filled conversation, so please turn on your camera. Caveat: we will (barring technical difficulties) post a recording[^unauthorized_recording] of class on Canvas in case anyone had trouble with their internet connection; so, if you don't want your image to appear in the recording, then it's okay to turn off your camera.
+ - You'll find a link for your section's Zoom "classroom" in Canvas, both on the Home Page and under Assignments.
+
+    You will have an assignment for each meeting, and the assignment will contain a link to your section's Zoom "classroom". It's just the same link all quarter; they don't change. The assignments are only there so that you have events showing up in your Canvas calendar.
+ - You should attend the section that you are registered for.
+
+    If for some reason you can't attend your own section, then it might be okay to attend a different section that week instead, but you should post on Piazza for instructor approval (it might affect the group exercises that we're planning).
+ - Class is intended to be an interactive, question-filled conversation, so please turn on your camera.
+  
+    Caveat: we will (barring technical difficulties) post a recording[^unauthorized_recording] of class on Canvas in case anyone had trouble with their internet connection; so, if you don't want your image to appear in the recording, then it's okay to turn off your camera.
  
     We will be making heavy use of Zoom's Breakout Rooms for group activities. We will not be posting recordings of Breakout Rooms on Canvas, so we do expect your camera to be on in Breakout Rooms so that you can interact with your group mates.
  - In general, it's a good idea to keep your microphone muted, and use Push-To-Talk when you have something to say. Press and hold the <kbd>space</kbd> bar to unmute/talk, and then release to re-mute yourself. Like a walkie-talkie (remember those?).
