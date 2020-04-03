@@ -31,7 +31,7 @@ Our objective, though, is not to learn any particular language or cloud platform
 
 This course is very _project-driven_. We will, as much as possible, learn each topic by applying it to real-world examples of increasing complexity. We will then combine topics to build more and more functional applications.
 
-This course is also very _question-driven_. In many cases, the slides, labs, and homeworks are designed not to impart knowledge but to elicit questions; which will then prompt conversations; during which, hopefully, knowledge will then be constructed[^behind_the_curtain].
+This course is also very _question-driven_. In many cases, the slides, labs, and homeworks are designed not to impart knowledge but to elicit questions; which will then prompt conversations; during which, hopefully, knowledge will be constructed[^behind_the_curtain].
 
 [^behind_the_curtain]: If you want to look a bit further behind the curtain: we believe in [playing the whole game](https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators){:target="_blank"} and in [encountering locked doors before keys](https://mkremins.github.io/blog/doors-headaches-intellectual-need/){:target="_blank"}.
 
