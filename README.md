@@ -93,7 +93,7 @@ Canvas is our home base. Everything that you need can be found by starting from 
 
 Class will be held entirely remotely using Zoom.
 
- - You'll find a link for your section's Zoom "classroom" in Canvas, both on the Home Page and under Assignments. You will have an assignment for each meeting that contains a link to your section's Zoom, but it's just the same link all quarter; they don't change. The assignments are only there to make it easier for you by showing up in your Canvas calendar.
+ - You'll find a link for your section's Zoom "classroom" in Canvas, both on the Home Page and under Assignments. You will have an assignment for each meeting, and the assignment will contain a link to your section's Zoom "classroom". It's just the same link all quarter; they don't change. The assignments are only there so that you have events showing up in your Canvas calendar.
  - You should attend the section that you are registered for. If for some reason you can't attend your own section, then it might be okay to attend a different section that week instead, but you should post on Piazza for instructor approval (it might affect the group exercises that we're planning).
  - Class is intended to be an interactive, question-filled conversation, so please turn on your camera. Caveat: we will (barring technical difficulties) post a recording[^unauthorized_recording] of class on Canvas in case anyone had trouble with their internet connection; so, if you don't want your image to appear in the recording, then it's okay to turn off your camera.
  
