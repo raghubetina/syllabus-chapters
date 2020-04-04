@@ -16,7 +16,7 @@ In this course, we will demystify these things and dispel this disadvantage. We 
 
 To do this, you will have to become a _full-stack developer_ — someone who can take _an idea_ all the way to _a live app on the internet_.
 
-This involves learning much more than just one language. You'll learn multiple languages (_front-end_ and _back-end_ languages), so that you can write a _whole_ application (not just one slice of it). You'll also learn how to deploy it on industrial-grade cloud infrastructure, as well as how to instrument it with analytics so that you can gather feedback and iterate.
+This involves learning much more than just one language. You'll learn multiple languages (_front-end_ and _back-end_ languages), so that you can write a _whole_ application (not just one slice of it). We'll also see how to deploy it on industrial-grade cloud infrastructure, as well as how to instrument it with analytics so that you can gather feedback and iterate.
 
 Our objective, though, is not to learn specific technologies. Instead, we want to:
 
