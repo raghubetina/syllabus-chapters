@@ -50,12 +50,14 @@ Learning assessment and your final grade will be based on the following:
  - 40% asynchronous / self-paced / at-home / introductory material.
     - You will have videos, readings, and accompanying walkthrough projects and exercises to complete to learn new concepts at your own pace outside of class.
  - 40% synchronous / collaborative / classtime / enrichment material.
-    - During class meetings, we'll work together on various exercises to deepen your understanding of concepts; usually in groups. Most of these exercises can be completed after class; some of them can only be done during class (if you _cannot_ attend class synchronously, e.g. because you're located in a timezone on the other side of the planet from Chicago, then contact the instructor and we'll work something out for these).
+    - During class meetings, we'll work together on various exercises to deepen your understanding of concepts; usually in groups. Most of these exercises can be completed after class; some[^cannot_attend] of them can only be done during class.
  - 20% capstone project.
     - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
         - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
  - _Spring 2020: There is no midterm exam or attendance grade this quarter._
+
+[^cannot_attend]: If you _cannot_ attend class synchronously, e.g. because you're located in a timezone on the other side of the planet from Chicago, then contact the instructor and we'll work something out to make up for these.
 
 Most assessments will be automatic and instant — you will have a command that you can run that will check whether the app that you're working on works correctly or not, and it will report back a grade. You can run it as often as you like.
 
