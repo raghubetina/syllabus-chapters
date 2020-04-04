@@ -147,7 +147,7 @@ Remember that in this course, _**your primary responsibility is to always be loo
    - Give your question a descriptive subject line, so that it’s easier to browse for.
  - Prefer Piazza over email — the instructors check Piazza much more frequently.
  - When you're working on your own, _you’re only allowed to get stuck for 15 minutes_ before asking a question on Piazza. Just type up what you're stuck on in a Piazza post, and then get back to struggling. Don't struggle for longer than 15 minutes without at least asking the question.
- - Whatever you do, just **ask lots of questions**!
+ - Whatever you do, just _**ask lots of questions**_!
 
 ## Office hours
 
