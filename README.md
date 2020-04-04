@@ -65,7 +65,7 @@ Since most assessments are objective and binary (it works or it doesn't work), _
 
 So don't worry if it seems like others came in with more experience; don't compare yourself to anyone else. Only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
-**Note:** When you're looking at assignments in Canvas, it's much more helpful in this course to **Show by Type** rather than By Date (click the button in the top-right corner):
+**Note:** For this course, when you're looking at assignments in Canvas, it's much more helpful to Show **by Type** rather than Show By Date (click the button in the top-right corner):
 
 ![](/assets/show-by-type.png)
 
@@ -136,7 +136,7 @@ The videos will all be available within Canvas under Assignments. There will be 
 
 Most of our asynchronous communication with each other will occur over Piazza, a Q&A forum that you'll find in Canvas. (You should prefer Piazza over email; the instructors check Piazza much more frequently than email.)
 
-Remember that in this course, **your primary responsibility is to always be looking for questions to ask, and asking them**. So Piazza is a crucial tool. Here are some guidelines for using it effectively:
+Remember that in this course, _**your primary responsibility is to always be looking for questions to ask, and asking them**_. So Piazza is a crucial tool. Here are some guidelines for using it effectively:
 
  - You can make your questions visible to everyone, or just to instructors.
  - You can be anonymous to everyone, or anonymous to classmates only.
