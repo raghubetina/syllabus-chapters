@@ -71,6 +71,8 @@ So don't worry if it seems like others came in with more experience; don't compa
 
 This will show the assignments grouped and ordered, and will show you the weight of each group.
 
+_Assignments will be posted no later than 1pm of the day following your section._ I will make every effort to post them within an hour or two of your section ending, but since we're figuring out our pace as we go this quarter, we'll be having to make some adjustments on the fly.
+
 ## Expectations & time commitment
 
 This course is designed for a beginner who has never programmed before. It is our goal to make programming accessible to as many people as possible, and dispel some of the mystique that surrounds it. It's really possible, with passion and persistence, for a beginner to become productive very quickly with today's tools.
