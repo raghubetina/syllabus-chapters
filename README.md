@@ -71,7 +71,7 @@ So don't worry if it seems like others came in with more experience; don't compa
 
 This will show the assignments grouped and ordered, and will show you the weight of each group.
 
-_Assignments will be posted no later than 1pm CT of the day following your section._ I will make every effort to post them within an hour or two of your section ending, but since we're writing new materials as we go, we may have to make some adjustments.
+_Assignments will be posted no later than 1pm CT the after your section meets._ I will make every effort to post them within an hour or two of your section ending, but since we're writing new materials as we go, we may have to make some adjustments.
 
 ## Expectations & time commitment
 
