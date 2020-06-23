@@ -63,7 +63,7 @@ Most assessments will be automatic and instant — you will have a command that 
 
 Since most assessments are objective and binary (it works or it doesn't work), _there is no curve_[^a_plus]. Potentially, everyone could get an `A`; or, everyone could get a `D`. Either you make each project work the way it's supposed to, or you don't; and by the end you can ship an app; or you can't. 
 
-[^a_plus]: Since we do not use a curve or average GPA limit in this class, we also do not award `A+`s. Many students could, and often do, earn `100%`; and we do create artifical separation in order to award only one or two `A+`s.
+[^a_plus]: Since there is no curve, we also do not award `A+`s. Many students could, and often do, earn `100%`; and we do not make efforts to create artificial separation just so that we can limit the number of `A+`s.
 
 So don't worry if it seems like others came in with more experience; don't compare yourself to anyone else. Only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
