@@ -55,13 +55,15 @@ Learning assessment and your final grade will be based on the following:
     - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
         - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
- - _Spring 2020: There is no midterm exam or attendance grade this quarter._
+ - _Summer 2020: There is no midterm exam or attendance grade this quarter, as we adapt to the new remote format._
 
 [^cannot_attend]: If you _cannot_ attend class synchronously, e.g. because you're located in a timezone on the other side of the planet from Chicago, then contact the instructor and we'll work something out to make up for these.
 
 Most assessments will be automatic and instant — you will have a command that you can run that will check whether the app that you're working on works correctly or not, and it will report back a grade. You can run it as often as you like.
 
-Since most assessments are objective and binary (it works or it doesn't work), _there is no curve_. Potentially, everyone could get an A; or, everyone could get a D. Either you make each project work the way it's supposed to, or you don't; and by the end you can ship an app; or you can't.
+Since most assessments are objective and binary (it works or it doesn't work), _there is no curve_[^a_plus]. Potentially, everyone could get an `A`; or, everyone could get a `D`. Either you make each project work the way it's supposed to, or you don't; and by the end you can ship an app; or you can't. 
+
+[^a_plus]: Since we do not use a curve or average GPA limit in this class, we also do not award `A+`s. Many students could, and often do, earn `100%`; and we do create artifical separation in order to award only one or two `A+`s.
 
 So don't worry if it seems like others came in with more experience; don't compare yourself to anyone else. Only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
@@ -69,9 +71,9 @@ So don't worry if it seems like others came in with more experience; don't compa
 
 ![](/assets/show-by-type.png)
 
-This will show the assignments grouped and ordered, and will show you the weight of each group.
+Showing by Type will **group and order** the assignments, and will display the weight of each group.
 
-_Assignments will be posted no later than 1pm CT the after your section meets._ I will make every effort to post at least some parts of the assignment within an hour of your section ending, but since we're writing new materials as we go, we may have to make some adjustments.
+_Assignments will be posted by 5pm CT the day after your section meets._ I will make every effort to post at least some parts of the assignment within an hour of your section ending, but since we're writing new materials as we go to adapt to the new remote format, we may have to make some adjustments.
 
 ## Expectations & time commitment
 
