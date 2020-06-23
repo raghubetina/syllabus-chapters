@@ -27,7 +27,7 @@ Our objective, though, is not to learn specific technologies. Instead, we want t
  5. Research and specify changes we want made to products more clearly.
  6. Be empowered with a new, powerful, and just plain fun creative outlet.
 
-## Approach
+## Questions
 
 This course is very _project-driven_. We will, as much as possible, learn each skill by solving problems of increasing complexity. We will then combine skills to build more and more functional real-world applications.
 
@@ -57,11 +57,11 @@ Learning assessment and your final grade will be based on the following:
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
  - _Summer 2020: There is no midterm exam or attendance grade this quarter, as we adapt to the new remote format._
 
-[^cannot_attend]: If you _cannot_ attend class synchronously, e.g. because you're located in a timezone on the other side of the planet from Chicago, then contact the instructor and we'll work something out to make up for these.
+[^cannot_attend]: If you _cannot_ attend class synchronously, e.g. because you're located in a timezone on the other side of the planet from Chicago, or had unexpected childcare obligations, etc; then contact the instructor and we'll work something out to make up for these.
 
 Most assessments will be automatic and instant — you will have a command that you can run that will check whether the app that you're working on works correctly or not, and it will report back a grade. You can run it as often as you like.
 
-Since most assessments are objective and binary (it works or it doesn't work), _there is no curve_[^a_plus]. Potentially, everyone could get an `A`; or, everyone could get a `D`. Either you make each project work the way it's supposed to, or you don't; and by the end you can ship an app; or you can't. 
+Since most assessments are objective and binary (it works or it doesn't work), _there is no curve_[^a_plus]. Potentially, everyone could get an `A`; or, everyone could get a `D`. Either you make each project work the way it's supposed to, or you don't; and by the end you can ship an app; or you can't.
 
 [^a_plus]: Since there is no curve, we also do not award `A+`s. Many students could, and often do, earn `100%`; and we do not make efforts to create artificial separation just so that we can limit the number of `A+`s.
 
@@ -91,6 +91,8 @@ Primarily, we'll be using a service called Gitpod for this. The regular subscrip
 
 All other required software is free. We'll provide step-by-step instructions for signing up for Gitpod and other required services during Week 1.
 
+Many students have reported that it's helpful to have a second screen to watch course videos on while writing code on your main computer. This could be an iPad or Android tablet, a TV that you [AirPlay](https://support.apple.com/en-us/HT204289#mirrormac){:target="_blank"} or [Chromecast](https://support.google.com/chromecast/answer/3228332?co=GENIE.Platform%3DAndroid&hl=en){:target="_blank"} to, a second laptop or Chromebook that you borrow, or an external monitor.
+
 ## Canvas
 
 Canvas is our home base. Everything that you need can be found by starting from the course's Home Page on Canvas and looking through the links there — assignments, Piazza, office hours, class recordings, reference materials, etc.
@@ -99,17 +101,12 @@ Canvas is our home base. Everything that you need can be found by starting from 
 
 Class will be held entirely remotely using Zoom.
 
- - You'll find a link for your section's Zoom "classroom" in Canvas, both on the Home Page and under Assignments.
-
-    You will have an assignment for each meeting, and the assignment will contain a link to your section's Zoom "classroom". It's just the same link all quarter; they don't change. The assignments are only there so that you have events showing up in your Canvas calendar.
+ - You'll find a link for your section's Zoom "classroom" in Canvas, on the home page, and under Zoom in the sidebar. It's the same link all quarter; they don't change.
  - You should attend the section that you are registered for.
 
     If for some reason you can't attend your own section, then it might be okay to attend a different section that week instead, but you should post on Piazza for instructor approval (it might affect the group exercises that we're planning).
- - Class is intended to be an interactive, question-filled conversation, so please turn on your camera.
-  
-    Caveat: we will (barring technical difficulties) post a recording[^unauthorized_recording] of class on Canvas in case anyone had trouble with their internet connection; so, if you don't want your image to appear in the recording, then it's okay to turn off your camera.
- 
-    We will be making heavy use of Zoom's Breakout Rooms for group activities. We will not be posting recordings of Breakout Rooms on Canvas, so we do expect your camera to be on in Breakout Rooms so that you can interact with your group mates.
+ - Class is intended to be an interactive, question-filled conversation, so **please turn on your camera**.
+ - We will be making heavy use of Zoom's Breakout Rooms for group activities. 
  - In general, it's a good idea to keep your microphone muted, and use Push-To-Talk when you have something to say. Press and hold the <kbd>space</kbd> bar to unmute/talk, and then release to re-mute yourself. Like a walkie-talkie (remember those?).
 
     This makes it easier to pipe up with questions whenever one occurs to you, without having to fumble around with your mouse for the tiny <i class="fas fa-microphone-slash"></i> icon. Watch out, though: if you were chatting, your cursor might be in the chat still, in which case pressing and holding <kbd>space</kbd> might just type a bunch of spaces into the chat instead of unmuting you.
@@ -121,9 +118,6 @@ Class will be held entirely remotely using Zoom.
     - Type into Zoom's chat. The TAs will be watching the chat and they will interrupt me and read your question/comment. So, if you're not sure, don't hesitate to type your questions or comments into the chat and let the TAs decide whether to escalate them.
  - Use Zoom's Nonverbal Feedback to let me know if e.g. things are moving too fast or too slow. Or hey, throw in a 👏/👎/👍 here and there.
    
-
-[^unauthorized_recording]: Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact the instructor. Unauthorized use of classroom recordings — including distributing or posting them — is also prohibited. Under the University’s Copyright Policy, faculty own the copyright to instructional materials — including those resources created specifically for the purposes of instruction, such as syllabi, lectures and lecture notes, and presentations.  Students cannot copy, reproduce, display or distribute these materials. Students who engage in unauthorized recording, unauthorized use of a recording or unauthorized distribution of instructional materials will be referred to the appropriate University office for follow-up.
-
 We're all figuring this out[^social-distance] as we go along. If you have any suggestions or tips, please let us know.
 
 [^social-distance]: _Please excuse us as we learn to social distance._
