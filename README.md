@@ -79,7 +79,7 @@ _Assignments will be posted by 5pm CT the day after your section meets._ I will 
 
 This course is designed for a beginner who has never programmed before. It is our goal to make programming accessible to as many people as possible, and dispel some of the mystique that surrounds it. It's really possible, with passion and persistence, for a beginner to become productive very quickly with today's tools.
 
-**Note:** It's _possible_, but not always _easy_. If you have never seen a line of code before, you are going to be learning a lot of new things all at once, and so should plan to spend a significant amount of time. If you already have some programming experience, you may have to spend less time initially while we learn basics; but once we get into Rails, it will likely be all new to you too. Historically, students have reported spending 5 ± 2 hours each week outside of class.
+**Note:** It's _possible_, but not _easy_. If you have never seen a line of code before, you are going to be learning a lot of new things all at once, and so should plan to spend a significant amount of time. If you already have some programming experience, you may have to spend less time initially while we learn basics; but once we get into Rails, it will likely be all new to you too. Historically, students have reported spending 5 ± 2 hours each week outside of class.
 
 What you can expect from us in return is a lot of support. We all will help each other on Piazza, the class Q&A forum. There will be plenty of one-on-one office hours available for booking every week; and if you can't find a slot that works for you on our calendars, then post a private question on Piazza with a few times that work for you and one of us will meet with you then.
 
