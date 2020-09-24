@@ -91,7 +91,7 @@ Primarily, we'll be using a service called Gitpod for this. The regular subscrip
 
 All other required software is free. We'll provide step-by-step instructions for signing up for Gitpod and other required services during Week 1.
 
-Many students have reported that it's helpful to have a second screen to watch course videos on while writing code on your main computer. This could be an iPad or Android tablet, a TV that you [AirPlay](https://support.apple.com/en-us/HT204289#mirrormac){:target="_blank"} or [Chromecast](https://support.google.com/chromecast/answer/3228332?co=GENIE.Platform%3DAndroid&hl=en){:target="_blank"} to, a second laptop or Chromebook that you borrow, or an external monitor.
+Many students have reported that it's helpful to have a second screen to watch course videos on while writing code on your main computer. This could be an iPad or Android tablet, a TV that you [AirPlay](https://support.apple.com/en-us/HT204289#mirrormac){:target="_blank"} or [Chromecast](https://support.google.com/chromecast/answer/3228332?co=GENIE.Platform%3DAndroid&hl=en){:target="_blank"} to, a second computer or Chromebook that you borrow, or a second monitor that you connect to your main computer.
 
 ## Canvas
 
