@@ -99,7 +99,7 @@ Canvas is our home base. Everything that you need can be found by starting from 
 
 ## Remote class over Zoom
 
-Class will be held entirely remotely using Zoom.
+For those joining class remotely, we'll be using Zoom.
 
  - You'll find a link for your section's Zoom "classroom" in Canvas, on the home page, and under Zoom in the sidebar. It's the same link all quarter; they don't change.
  - You should attend the section that you are registered for.
