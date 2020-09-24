@@ -73,7 +73,7 @@ So don't worry if it seems like others came in with more experience; don't compa
 
 Showing by Type will **group and order** the assignments, and will display the weight of each group.
 
-_Assignments will be posted by 5pm CT the day after your section meets._ I will make every effort to post at least some parts of the assignment within an hour of your section ending, but since we're writing new materials as we go to adapt to the new format, we may have to make some adjustments.
+_Assignments will be posted by 5pm CT the day after your section meets._ I will make every effort to post at least some parts of the assignment within an hour of your section ending, but since we're writing new materials as we go to adapt to the new format, we may have to make some adjustments before posting.
 
 ## Expectations & time commitment
 
