@@ -221,6 +221,6 @@ _Ruby on Rails_
         - Customer feedback and analytics
  - Continuing learning
 
-**Note:** We don't yet know what velocity we'll be moving at in the new remote format, relative to the usual in-person format.
+**Note:** We don't yet know what velocity we'll be moving at in the new dual format, relative to the usual format.
 
 If we're moving more slowly than usual, then some of the above topics may be made optional or omitted altogether. <u>The schedule above is highly subject to change.</u>
