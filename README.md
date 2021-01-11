@@ -81,7 +81,7 @@ This course is designed for a beginner who has never programmed before. It is ou
 
 **Note:** It's _possible_, but not _easy_. If you have never seen a line of code before, you are going to be learning a lot of new things all at once, and so should plan to spend a significant amount of time. If you already have some programming experience, you may have to spend less time initially while we learn basics; but once we get into Rails, it will likely be all new to you too. Historically, students have reported spending 5 ± 2 hours each week outside of class.
 
-What you can expect from us in return is a lot of support. We all will help each other on Piazza, the class Q&A forum. There will be plenty of one-on-one office hours available for booking every week; and if you can't find a slot that works for you on our calendars, then post a private question on Piazza with a few times that work for you and one of us will meet with you then.
+What you can expect from us in return is a lot of support. We all will help each other on Ed Discussion, the class Q&A forum. There will be plenty of one-on-one office hours available for booking every week; and if you can't find a slot that works for you on our calendars, then post a private question on Ed Discussion with a few times that work for you and one of us will meet with you then.
 
 ## Required materials
 
@@ -95,7 +95,7 @@ Many students have reported that it's helpful to have a second screen to watch c
 
 ## Canvas
 
-Canvas is our home base. Everything that you need can be found by starting from the course's Home Page on Canvas and looking through the links there — assignments, Piazza, office hours, class recordings, reference materials, etc.
+Canvas is our home base. Everything that you need can be found by starting from the course's Home Page on Canvas and looking through the links there — assignments, Ed Discussion, office hours, class recordings, reference materials, etc.
 
 ## Remote class over Zoom
 
@@ -104,7 +104,7 @@ For those joining class remotely, we'll be using Zoom.
  - You'll find a link for your section's Zoom "classroom" in Canvas, on the home page, and under Zoom in the sidebar. It's the same link all quarter; they don't change.
  - You should attend the section that you are registered for.
 
-    If for some reason you can't attend your own section, then it might be okay to attend a different section that week instead, but you should post on Piazza for instructor approval (it might affect the group exercises that we're planning).
+    If for some reason you can't attend your own section, then it might be okay to attend a different section that week instead, but you should post on Ed Discussion for instructor approval (it might affect the group exercises that we're planning).
  - Class is intended to be an interactive, question-filled conversation, so **please turn on your camera**.
  - We will be making heavy use of Zoom's Breakout Rooms for group activities. 
  - In general, it's a good idea to keep your microphone muted, and use Push-To-Talk when you have something to say. Press and hold the <kbd>space</kbd> bar to unmute/talk, and then release to re-mute yourself. Like a walkie-talkie (remember those?).
@@ -130,21 +130,21 @@ Most "lecture" will be consumed at your own pace outside of class time, not over
 
 The videos will all be available within Canvas under Assignments. There will be in-video questions in the videos, and they will have due dates like any other assignment. It is essential that you complete the videos before their due dates, so that you're prepared for our in-class exercises.
 
-## Q&A with Piazza
+## Q&A with Ed Discussion
 
-Most of our asynchronous communication with each other will occur over Piazza, a Q&A forum that you'll find in Canvas. (You should prefer Piazza over email; the instructors check Piazza much more frequently than email.)
+Most of our asynchronous communication with each other will occur over Ed Discussion, a Q&A forum that you'll find in Canvas. (You should prefer Ed Discussion over email; the instructors check Ed Discussion much more frequently than email.)
 
-Remember that in this course, _**your primary responsibility is to always be looking for questions to ask, and asking them**_. So Piazza is a crucial tool. Here are some guidelines for using it effectively:
+Remember that in this course, _**your primary responsibility is to always be looking for questions to ask, and asking them**_. So Ed Discussion is a crucial tool. Here are some guidelines for using it effectively:
 
  - You can make your questions visible to everyone, or just to instructors.
- - You can be anonymous to everyone, or anonymous to classmates only.
+ - You can be anonymous to classmates.
  - If you have a question about something, it’s almost guaranteed that someone else has the same question. You'd be doing everyone a favor by being the first one to ask it — don't be afraid of looking silly!
  - That said, please do everyone a favor and:
    - Make your question visible to everyone rather than to instructors only (be anonymous if you want to).
    - Browse the list of older questions and see whether your question has already been asked and answered.
    - Give your question a descriptive subject line, so that it’s easier to browse for.
- - Prefer Piazza over email — the instructors check Piazza much more frequently.
- - When you're working on your own, _you’re only allowed to get stuck for 15 minutes_ before asking a question on Piazza. Just type up what you're stuck on in a Piazza post, and then get back to struggling. Don't struggle for longer than 15 minutes without at least asking the question.
+ - Prefer Ed Discussion over email — the instructors check Ed Discussion much more frequently.
+ - When you're working on your own, _you’re only allowed to get stuck for 15 minutes_ before asking a question on Ed Discussion. Just type up what you're stuck on in a Ed Discussion post, and then get back to struggling. Don't struggle for longer than 15 minutes without at least asking the question.
  - Whatever you do, just _**ask lots of questions**_!
 
 ## Office hours
