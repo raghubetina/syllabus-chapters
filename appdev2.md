@@ -151,12 +151,9 @@ _Week 6_
     - Continuous integration
     - Performance and error monitoring
 
-_Week 7_
+_Weeks 7 & 8_
 
  - Building a Robust JSON API
-
-_Week 8_
-
  - Native iOS and Android development
     - A taste of Swift
     - Cross-platform development with React Native
