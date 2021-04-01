@@ -138,7 +138,7 @@ _Week 3_
 
 _Week 4_
 
- - It's time: JavaScript
+ - It's finally time: JavaScript
 
 _Week 5_
 
