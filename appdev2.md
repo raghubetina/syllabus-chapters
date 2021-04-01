@@ -126,7 +126,7 @@ _Week 1_
 _Week 2_ 
 
  - Writing automated tests
- - Improving the code of `draft:resource`
+ - Improving the code of a `draft:resource`
  - Introducing: The Rails `scaffold`
 
 _Week 3_
