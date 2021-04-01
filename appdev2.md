@@ -35,6 +35,8 @@ Learning assessment and your final grade will be based on the following:
 
 There is no curve[^a_plus] in this course. Potentially, everyone could get an `A`; or, everyone could get a `D`. So don't worry if it seems like others came in with more experience; don't compare yourself to anyone else. Only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
+[^a_plus]: Since there is no curve, we also do not award `A+`s. Many students could, and often do, earn `100%`; and we do not make efforts to create artificial separation just so that we can limit the number of `A+`s.
+
 **Note:** For this course, when you're looking at assignments in Canvas, it's much more helpful to Show **by Type** rather than Show By Date (click the button in the top-right corner):
 
 ![](/assets/show-by-type.png)
