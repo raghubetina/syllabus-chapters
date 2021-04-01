@@ -146,14 +146,14 @@ _Week 5_
 
 _Week 6_
 
- - Building a Robust JSON API
-
-_Week 7_
-
  - Leveling up: Deployment
     - Heroku Pipelines
     - Continuous integration
     - Performance and error monitoring
+
+_Week 7_
+
+ - Building a Robust JSON API
 
 _Week 8_
 
