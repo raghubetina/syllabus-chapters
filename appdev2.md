@@ -154,9 +154,8 @@ _Week 6_
 _Weeks 7 & 8_
 
  - Building a Robust JSON API
- - Native iOS and Android development
-    - A taste of Swift
-    - Cross-platform development with React Native
+ - Replacing Rails views with React
+ - iOS and Android development with React Native
 
 _Weeks 9 & 10_
 
