@@ -153,7 +153,7 @@ _Week 6_
 
 _Weeks 7 & 8_
 
- - Building a Robust JSON API
+ - Building a robust JSON API
  - Replacing Rails views with React
  - iOS and Android development with React Native
 
