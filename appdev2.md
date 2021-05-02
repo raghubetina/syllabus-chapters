@@ -55,7 +55,9 @@ We will be using cloud-based software to write and run our applications entirely
 
 Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $9/month. If you jump through some hoops you may be able to get a student discount.
 
-All other required materials are free. There are some books, online courses, and other paid tools that I will recommend that you might find helpful, but that are not required. We'll provide step-by-step instructions for signing up for Gitpod and other required services during Week 1.
+We'll also be using an online learning platform called Scrimba. Some of their courses are free, but some require a paid subscription to access.
+
+Most other required materials are free. There are some books, online courses, and other paid tools that I will recommend that you might find helpful. We'll provide step-by-step instructions for signing up for Gitpod and other required services during Week 1.
 
 Many students have reported that it's helpful to have a second screen to watch course videos on while writing code on your main computer. This could be an iPad or Android tablet, a TV that you [AirPlay](https://support.apple.com/en-us/HT204289#mirrormac){:target="_blank"} or [Chromecast](https://support.google.com/chromecast/answer/3228332?co=GENIE.Platform%3DAndroid&hl=en){:target="_blank"} to, a second computer or Chromebook that you borrow, or a second monitor that you connect to your main computer.
 
