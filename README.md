@@ -55,7 +55,7 @@ Learning assessment and your final grade will be based on the following:
     - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
         - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
- - _Autumn 2020: There is no midterm exam or attendance grade this quarter, as we adapt to the new Dual Modality format._
+ - _Summer 2021: There is no midterm exam or attendance grade this quarter, due to the Dual Modality format._
 
 [^cannot_attend]: If you _cannot_ attend class synchronously, e.g. because you're located in a timezone on the other side of the planet from Chicago, or had unexpected childcare obligations, etc; then contact the instructor and we'll work something out to make up for these.
 
