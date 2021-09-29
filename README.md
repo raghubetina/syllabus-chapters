@@ -20,11 +20,11 @@ This involves learning much more than just one language. You'll learn multiple l
 
 Our objective, though, is not to learn specific technologies. Instead, we want to:
 
- 1. Understand how most modern software functions.
+ 1. Understand how most of the applications that we use every day work.
  2. Communicate more credibly with developers on our teams.
- 3. Grow an eye for problems that can be solved with technology.
- 4. Prioritize features more frugally by getting a better feel for their costs.
- 5. Research and specify changes we want made to products more clearly.
+ 3. Cultivate an eye for problems that can be solved with technology.
+ 4. Prioritize features more efficiently by getting a better feel for their costs.
+ 5. Specify changes we want made to products more clearly.
  6. Be empowered with a new, powerful, and just plain fun creative outlet.
 
 ## Questions
@@ -33,7 +33,7 @@ This course is very _project-driven_. We will, as much as possible, learn each s
 
 This course is also very _question-driven_. In many cases, the slides, labs, and homeworks are designed not to impart knowledge but to elicit questions, which should prompt conversations, during which, hopefully, knowledge will be constructed[^behind_the_curtain].
 
-[^behind_the_curtain]: If you want to look a bit further behind the curtain: we believe in [playing the whole game](https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators){:target="_blank"} and in [encountering locked doors before keys](https://mkremins.github.io/blog/doors-headaches-intellectual-need/){:target="_blank"}.
+[^behind_the_curtain]: If you want to look a bit further behind the curtain: we believe in [encountering locked doors before keys](https://mkremins.github.io/blog/doors-headaches-intellectual-need/){:target="_blank"} and in [playing the whole game](https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators){:target="_blank"}.
 
 > Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go.
 >
@@ -55,25 +55,25 @@ Learning assessment and your final grade will be based on the following:
     - In the last week or two, you'll devote most of your time to an individual capstone project. You will have two options for your capstone project:
         - Build and deploy a barebones Proof Of Concept (POC) of your own app idea.
         - Build a more fleshed out Minimum Viable Product (MVP) of an idea that I assign.
- - _Summer 2021: There is no midterm exam or attendance grade this quarter, due to the Dual Modality format._
+ - _Autumn 2021: There is no midterm exam or attendance grade this quarter._
 
-[^cannot_attend]: If you _cannot_ attend class synchronously, e.g. because you're located in a timezone on the other side of the planet from Chicago, or had unexpected childcare obligations, etc; then contact the instructor and we'll work something out to make up for these.
+[^cannot_attend]: If you _cannot_ attend class synchronously, then contact the instructor in advance and we'll work something out to make up for these. If you an unexpected situation that causes you to miss class or due dates, contact Faculty Services and ask them to reach out to all of your instructors on your behalf.
 
-Most assessments will be automatic and instant — you will have a command that you can run that will check whether the app that you're working on works correctly or not, and it will report back a grade. You can run it as often as you like.
+Most grading will be automatic and instant — you will have a command that you can run that will check whether the app that you're working on works correctly or not, and it will report back a score. You can run it as often as you like.
 
 Since most assessments are objective and binary (it works or it doesn't work), _there is no curve_[^a_plus]. Potentially, everyone could get an `A`; or, everyone could get a `D`. Either you make each project work the way it's supposed to, or you don't; and by the end you can ship an app; or you can't.
 
 [^a_plus]: Since there is no curve, we also do not award `A+`s. Many students could, and often do, earn `100%`; and we do not make efforts to create artificial separation just so that we can limit the number of `A+`s.
 
-So don't worry if it seems like others came in with more experience; don't compare yourself to anyone else. Only compare yourself to yourself from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
+So don't worry if it seems like others came in with more experience; don't compare yourself with anyone else. Only compare yourself with you from yesterday. The course is designed for beginners; if you ask lots of questions, learn a little bit each day, and don't fall behind, then you'll be fine.
 
 **Note:** For this course, when you're looking at assignments in Canvas, it's much more helpful to Show **by Type** rather than Show By Date (click the button in the top-right corner):
 
 ![](/assets/show-by-type.png)
 
-Showing by Type will **group and order** the assignments, and will display the weight of each group.
+Showing by Type will **group assignments by week** and **show them in order**. You will also be able to see the weight of each assignment group.
 
-_Assignments will be posted by 5pm CT the day after your section meets._ I will make every effort to post at least some parts of the assignment within an hour of your section ending, but since we're writing new materials as we go to adapt to the new format, we may have to make some adjustments before posting.
+_Assignments will be posted by 5pm CT the day after your section meets._ I will make every effort to post at least some parts of the assignment within an hour of your section ending, but since we're writing new materials as we go to adapt to a new format, we may have to make some adjustments before posting.
 
 ## Expectations & time commitment
 
@@ -120,9 +120,9 @@ For those joining class remotely, we'll be using Zoom.
    
 We're all figuring this out[^social-distance] as we go along. If you have any suggestions or tips, please let us know.
 
-[^social-distance]: _Please excuse us as we learn to social distance._
+<!-- [^social-distance]: _Please excuse us as we learn to social distance._
 
-    ![](/assets/social-distance.gif)
+    ![](/assets/social-distance.gif) -->
 
 ## Self-paced lectures
 
