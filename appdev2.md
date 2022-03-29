@@ -51,11 +51,19 @@ This course is going to be much more demanding than Application Development I. W
 
 ## Required materials
 
+**Unlike in AppDev 1**, there are materials in AppDev 2 that you'll have to purchase. I've tried to select materials that will provide ongoing value as references during your development career.
+
+### Gitpod
+
 We will be using cloud-based software to write and run our applications entirely within our web browsers, so that everyone's environments are the same (no Windows vs Mac inconsistencies) and no one has to worry about e.g. going through their IT department to install Ruby on a work-issued laptop. Also, if your computer dies part-way through the quarter, no problem; you can borrow any old laptop or Chromebook and pick up right where you left off.
 
-Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $9/month. If you jump through some hoops you may be able to get a student discount.
+Primarily, we'll be using a service called Gitpod for this. The regular subscription price is $9/month. If you jump through some hoops you may be able to get [a student discount](https://www.gitpod.io/github-student-developer-pack/).
 
-We'll also be using an online learning platform called Scrimba. Some of their courses are free, but some require a paid subscription to access.
+### Scrimba
+
+We'll also be using an online learning platform called Scrimba, mostly to learn JavaScript but also to improve our CSS and Bootstrap knowledge. Some of their courses are free, but some require a paid subscription to access.
+
+### Other
 
 Most other required materials are free. There are some books, online courses, and other paid tools that I will recommend that you might find helpful. We'll provide step-by-step instructions for signing up for Gitpod and other required services during Week 1.
 
